@@ -6,8 +6,9 @@
 	"TToast": {
 		"prefix": "TToast",
 		"body": [
-			"testes
-			testeste"
+			"TToast::show('show', 'Toast test 1', 'top right', 'far:check-circle' );",
+			"//show,info,warning,error,success",
+			
 		],
 		"description": "TToast"
 	},
